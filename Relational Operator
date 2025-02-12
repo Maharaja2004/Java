@@ -1,0 +1,12 @@
+public class Main
+{
+	public static void main(String[] args) {
+      int a=20;
+      int b=35;
+      int c=43;
+      System.out.println(a>b);
+      System.out.println(a>c);
+      System.out.println(b>c);
+      System.out.println(a<b);
+	}
+}
